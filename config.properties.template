@@ -1,0 +1,14 @@
+# Database Configuration Template
+# Copy this file to config.properties and fill in your actual database credentials
+# DO NOT commit config.properties to version control!
+
+# Database connection details
+db.url=jdbc:mysql://jdbc-sample-ebrahemmordyasr-c010.d.aivencloud.com:20820/defaultdb?ssl-mode=REQUIRED
+db.username=avnadmin
+db.password=YOUR_ACTUAL_PASSWORD_HERE
+
+# Instructions:
+# 1. Copy this file: cp config.properties.template config.properties
+# 2. Edit config.properties and replace YOUR_ACTUAL_PASSWORD_HERE with your real password
+# 3. The application will automatically load these settings
+# 4. config.properties is already in .gitignore so it won't be committed

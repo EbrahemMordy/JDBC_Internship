@@ -7,6 +7,12 @@ db.url=jdbc:mysql://jdbc-sample-ebrahemmordyasr-c010.d.aivencloud.com:20820/defa
 db.username=avnadmin
 db.password=AVNS_1MG4cATA4NCpwFDsMa9
 
+Host : jdbc-sample-ebrahemmordyasr-c010.d.aivencloud.com
+Port : 20820
+username: avnadmin
+password : AVNS_1MG4cATA4NCpwFDsMa9
+db: defaultdb
+
 # Instructions:
 # 1. Copy this file: cp config.properties.template config.properties
 # 2. Edit config.properties and replace YOUR_ACTUAL_PASSWORD_HERE with your real password
